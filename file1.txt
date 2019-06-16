@@ -4,3 +4,5 @@ this is a copy!
 this is the second line in this first file; this is the yuan file;
 
 this is in master;
+
+this is in master: second;
