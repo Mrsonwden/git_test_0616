@@ -1,3 +1,5 @@
 git_test 1 this is first file;
 
 this is a copy!
+this is the second line in this first file; this is the yuan file;
+
